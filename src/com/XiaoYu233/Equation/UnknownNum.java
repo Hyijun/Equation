@@ -1,7 +1,7 @@
 package com.XiaoYu233.Equation;
 
 @SuppressWarnings("WeakerAccess")
-public class UnknownNum {
+public class UnknownNum extends Integer{
     char letterSymbol;
     int index;
 

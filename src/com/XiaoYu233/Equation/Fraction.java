@@ -1,7 +1,7 @@
 package com.XiaoYu233.Equation;
 
 @SuppressWarnings({"WeakerAccess", "unused"})
-public class Fraction {
+public class Fraction extends Formula{
     double up, down;
 
     public Fraction(double up, double down) {

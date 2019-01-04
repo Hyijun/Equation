@@ -3,7 +3,7 @@ package com.XiaoYu233.Equation;
 import java.util.ArrayList;
 
 @SuppressWarnings({"unused", "WeakerAccess", "StringConcatenationInsideStringBufferAppend"})
-public class Polynomial {
+public class Polynomial extends Integer{
     private ArrayList<Monomial> monomialsList = new ArrayList<>();
 
     public Polynomial() {

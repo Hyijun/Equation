@@ -1,7 +1,7 @@
 package com.XiaoYu233.Equation;
 
 @SuppressWarnings("WeakerAccess")
-public class Monomial {
+public class Monomial extends Integer{
     Fraction coefficient;
     UnknownNum[] unknownNumbs;
 
